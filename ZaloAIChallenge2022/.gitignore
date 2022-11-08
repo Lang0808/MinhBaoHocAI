@@ -1,0 +1,9 @@
+./e2eqa-train+public_test-v1/zac2022_testa_only_question.json
+./e2eqa-train+public_test-v1/zac2022_testa_sample_submission.json
+./e2eqa-train+public_test-v1/zac2022_train_merged_final.json
+e2eqa-train+public_test-v1.zip
+viwiki-20220620-pages-articles.xml
+viwiki-20220620-pages-articles.xml.bz2
+wikipedia_20220620_all_titles.txt
+wikipedia_20220620_cleaned.jsonl
+wikipedia_20220620_cleaned.zip
